@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(163, 163, 163);
+}
+
+.content{
+    margin-top: 10%;
+    position: center;
+}
+
+.content1{
+border: 2px solid rgb(73, 73, 73);
+  border-radius: 4px;
+  width: 50%;
+  height: 50px;
+}
+
+
+.content2{
+    margin-left: 10%;
+    margin-top: 10%;
+}
+
+.content3{
+    background-color: rgb(201, 48, 48);
+    border: 1px solid  rgb(41, 41, 41);
+    margin-right: 5%;
+    
+}
+.content4{
+    border: 1px solid  rgb(41, 41, 41);
+    margin-right: 3%;
+    
+}
+
+.content5{
+    background-color: rgb(201, 48, 48);  
+}
+
+footer{
+    margin-top: 30%;
+    text-align: center;
+}
+

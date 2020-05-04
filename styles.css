@@ -4,20 +4,23 @@ body {
 
 .content{
     margin-top: 10%;
-    position: center;
+   padding-left: 12%;
+   
 }
 
 .content1{
+
 border: 2px solid rgb(73, 73, 73);
-  border-radius: 4px;
-  width: 50%;
-  height: 50px;
+  width: 80%;
+height: 50px;
+margin-left: 10%;
+
 }
 
 
 .content2{
     margin-left: 10%;
-    margin-top: 10%;
+    margin-top: 15%;
 }
 
 .content3{
@@ -33,8 +36,18 @@ border: 2px solid rgb(73, 73, 73);
 }
 
 .content5{
-    background-color: rgb(201, 48, 48);  
+   
+   border: 2px solid rgb(73, 73, 73);
+   width: 40%;
+   height: 50px;
+   position: center; 
 }
+.content6{
+    padding-left: 10%;
+    margin-bottom: 10%;
+    margin-top :10% ;
+}
+
 
 footer{
     margin-top: 30%;
